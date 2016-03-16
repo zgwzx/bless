@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1445434813 source:c:\users\zgw25\desktop\2014214329张国伟4\mystack\data.cpp
+	<iostream>
+	<ctime>
+	<fstream>
+	<cstdlib>
+
+1445441837 source:c:\users\zgw25\desktop\2014214329张国伟4\mystack\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	"mystack.h"
+
+1445439111 c:\users\zgw25\desktop\2014214329张国伟4\mystack\mystack.h
+	<iostream>
+
